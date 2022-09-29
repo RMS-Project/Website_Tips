@@ -71,6 +71,11 @@ https://runwayml.com/
 https://jitter.video/gallery/
 ```
 
+**Videos prontos com templates editáveis**
+``` 
+https://www.renderforest.com/
+```
+
 ****
 ``` 
 
@@ -89,9 +94,19 @@ https://coolbackgrounds.io/
 https://animatedbackgrounds.me/
 ```
 
+**63 ferramentas para auxiliar no desenvolvimento**
+``` 
+https://10015.io/
+```
+
 **Site de icons 3D**
 ``` 
 https://www.3dicons.com/
+```
+
+**Icons tradicionais SVG entre ouros formatos**
+``` 
+ICONNER.app
 ```
 
 **Trechos de código pronto**
@@ -125,7 +140,7 @@ https://animista.net/
 https://neumorphism.io/#e0e0e0
 ```
 
-**purgecss**
+**Purgecss**
 <p>Remove código não utilizados em seu css</p>
 
 ``` 
@@ -162,9 +177,13 @@ https://github.com/awesomedata
 https://cloud.google.com/products/databases
 ```
 
+**Portugol Estruturado versão Web- Para iniciantes**
+``` 
+https://erickweil.github.io/portugolweb/
+```
+
 ****
 ``` 
-
 ```
 ------------------------------------------------------------------------------------------------
 
@@ -205,6 +224,41 @@ https://developer.twitter.com/en/docs/twitter-api
 https://devapi.com.br/
 ```
 
+**Chart.js**
+<p>Gráficos de alta performance e animados.</p>
+
+``` 
+https://www.chartjs.org/
+```
+
+**Hammer.js**
+<p>Adicionar gestos e movimentos com o mouse no projeto.</p>
+
+``` 
+https://hammerjs.github.io/
+```
+
+**Leaflet.js**
+<p>Mapas interativos</p>
+
+``` 
+https://leafletjs.com/
+```
+
+**Anime.js**
+<p>Criar animações com JavaScript</p>
+
+``` 
+https://animejs.com/
+```
+
+****
+<p></p>
+
+``` 
+
+```
+
 ------------------------------------------------------------------------------------------------
 
 <h2>Cursos online gratis</h2>
@@ -230,6 +284,22 @@ https://github.com/jwasham/coding-interview-university/blob/main/translations/RE
 ``` 
 https://goalkicker.com/
 ```
+
+**Desafios de programação baseados em entrevistas técnicas**
+<p>Desafios que podem ser resolvidos na própria plataforma, códigos prontos e explicações de tecnologias.</p>
+
+``` 
+https://www.codecademy.com/
+```
+
+****
+``` 
+
+```
+
+------------------------------------------------------------------------------------------------
+
+<h2>Hacking</h2>
 
 ****
 ``` 
