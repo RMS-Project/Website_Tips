@@ -24,6 +24,16 @@ https://www.vintepila.com.br/
 https://surveytime.io/pt
 ```
 
+**Google AdSense**
+``` 
+https://www.google.com/intl/pt-BR_br/adsense/start/
+```
+
+****
+``` 
+
+```
+
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
@@ -31,6 +41,39 @@ https://surveytime.io/pt
 **Várias ferramentas para converter arquivos a edição de imagens**
 ``` 
 https://tinywow.com/
+```
+
+**Site capa edição de imagens utilizando inteligência artificial**
+``` 
+https://clipdrop.co/
+```
+
+**Programas alternativos para softwares pagos**
+``` 
+https://www.opensourcealternative.to/
+```
+
+****
+``` 
+
+```
+
+------------------------------------------------------------------------------------------------
+
+<h2>Sites para os vídeos</h2>
+
+**Edição de videos online**
+``` 
+https://runwayml.com/
+```
+**Editor de vídeos com vários templates editáveis**
+``` 
+https://jitter.video/gallery/
+```
+
+****
+``` 
+
 ```
 
 ------------------------------------------------------------------------------------------------
@@ -42,23 +85,97 @@ https://tinywow.com/
 https://coolbackgrounds.io/
 ```
 
+**Site de icons 3D**
+``` 
+https://www.3dicons.com/
+```
+
+**Trechos de código pronto**
+``` 
+https://www.30secondsofcode.org/
+```
+
+**Trechos de código pronto**
+``` 
+https://www.useblackbox.io/search
+```
+
+**CSS Clip Path Maker**
+<p>Criar tomas diferentes liberando código css</p>
+
+``` 
+https://www.cssportal.com/css-clip-path-generator/
+```
+
+**Animista**
+<p>Pré conjunto de animações para ser utilizado no CSS</p>
+
+``` 
+https://animista.net/
+```
+
+**Neumorphism**
+<p>Criar efeitos minimalistas</p>
+
+``` 
+https://neumorphism.io/#e0e0e0
+```
+
+**purgecss**
+<p>Remove código não utilizados em seu css</p>
+
+``` 
+https://purgecss.com/
+```
+
+**Shadow Brumm**
+<p>Criar sombra estilosas</p>
+
+``` 
+https://shadows.brumm.af/
+```
+
 ****
 ``` 
 
 ```
-
-
 ------------------------------------------------------------------------------------------------
 
-<h2>Sites para os vídeos</h2>
+<h2>Bibliotecas para facilitar a programação</h2>
 
-**Edição de videos online**
+**YouTube API**
+<p>solicitar dados do YouTube, videos, botão de inscrição entre outros.</p>
+
 ``` 
-https://runwayml.com/
+https://developers.google.com/youtube/v3
 ```
-****
-``` 
 
+**Radar.io API**
+<p>Recursos de mapas e localização - rastreamento em tempo real.</p>
+
+``` 
+https://radar.com/
+```
+
+**Google Maps API**
+<p>mapas e instruções para lugares específicos.</p>
+
+``` 
+https://mapsplatform.google.com/
+```
+
+**Twitter API**
+<p>Contribuir e analisar as trends da Rede Social.</p>
+
+``` 
+https://developer.twitter.com/en/docs/twitter-api
+```
+
+**Dev API**
+<p>Para conseguir artigos acesso a usuários e conteúdo de programação.</p>
+
+``` 
+https://devapi.com.br/
 ```
 
 ------------------------------------------------------------------------------------------------
@@ -70,8 +187,19 @@ https://runwayml.com/
 https://digitaldefynd.com/
 ```
 
+**Fiap On - Nano Couses**
+``` 
+https://www.fiap.com.br/graduacao/#nano-courses
+```
 
+**Se prepare para entrevistas no exterior**
+``` 
+https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md
+```
 
+****
+``` 
 
+```
 
 
