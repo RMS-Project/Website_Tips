@@ -29,9 +29,9 @@ https://surveytime.io/pt
 https://www.google.com/intl/pt-BR_br/adsense/start/
 ```
 
-****
+**Inteligência  artificial que cria imagens a partir de desenhos**
 ``` 
-
+http://gaugan.org/gaugan2/
 ```
 
 ------------------------------------------------------------------------------------------------
@@ -75,7 +75,7 @@ https://jitter.video/gallery/
 ``` 
 
 ```
-
+books.goalkicker.com
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar na programação</h2>
@@ -83,6 +83,10 @@ https://jitter.video/gallery/
 **Backgrounds incríveis para projetos**
 ``` 
 https://coolbackgrounds.io/
+```
+**Backgrounds animados**
+``` 
+https://animatedbackgrounds.me/
 ```
 
 **Site de icons 3D**
@@ -133,6 +137,29 @@ https://purgecss.com/
 
 ``` 
 https://shadows.brumm.af/
+```
+
+**Banco de Dados para Analise de dados**
+
+<p>Dados do Brasil</p>
+
+``` 
+https://dados.gov.br/dataset
+```
+<p>Bases de dados diferentes sore vários assuntos e permite ver o código de outras pessoas de como fazer dataset.</p>
+
+``` 
+https://www.kaggle.com/datasets
+```
+<p>Dataset do GitHub</p>
+
+``` 
+https://github.com/awesomedata
+```
+<p>Bases de dados do Google</p>
+
+``` 
+https://cloud.google.com/products/databases
 ```
 
 ****
@@ -197,9 +224,14 @@ https://www.fiap.com.br/graduacao/#nano-courses
 https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md
 ```
 
+**Livros gratis de programação**
+<p>Tanto para Front-End quanto Back-End e outras tecnologias.</p>
+
+``` 
+https://goalkicker.com/
+```
+
 ****
 ``` 
 
 ```
-
-
