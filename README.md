@@ -29,11 +29,6 @@ https://surveytime.io/pt
 https://www.google.com/intl/pt-BR_br/adsense/start/
 ```
 
-**Inteligência  artificial que cria imagens a partir de desenhos**
-``` 
-http://gaugan.org/gaugan2/
-```
-
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
@@ -51,6 +46,11 @@ https://clipdrop.co/
 **Programas alternativos para softwares pagos**
 ``` 
 https://www.opensourcealternative.to/
+```
+
+**Inteligência artificial que cria imagens a partir de desenhos**
+``` 
+http://gaugan.org/gaugan2/
 ```
 
 ****
@@ -76,11 +76,15 @@ https://jitter.video/gallery/
 https://www.renderforest.com/
 ```
 
+**PZPIC - Aplicativo para editar videos no celular**
+``` 
+https://play.google.com/store/search?q=pzpic&c=apps&hl=pt_BR&gl=US
+```
+
 ****
 ``` 
 
 ```
-
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar na programação</h2>
@@ -102,6 +106,10 @@ https://10015.io/
 **Site de icons 3D**
 ``` 
 https://www.3dicons.com/
+```
+**SVG para componente React**
+``` 
+https://svg2jsx.com
 ```
 
 **Icons tradicionais SVG entre ouros formatos**
@@ -188,6 +196,21 @@ https://erickweil.github.io/portugolweb/
 ------------------------------------------------------------------------------------------------
 
 <h2>Bibliotecas para facilitar a programação</h2>
+
+**Lidar com data**
+``` 
+https://date-fns.org/
+``` 
+
+**Icons para projetos React**
+``` 
+https://github.com/phosphor-icons/phosphor-home#phosphor-icons
+``` 
+
+**Cores TailwindCSS**
+``` 
+tailwindcss.com/docs/
+``` 
 
 **YouTube API**
 <p>solicitar dados do YouTube, videos, botão de inscrição entre outros.</p>
@@ -304,4 +327,19 @@ https://www.codecademy.com/
 ****
 ``` 
 
+```
+
+------------------------------------------------------------------------------------------------
+
+<h2>Comandos Linux</h2>
+
+**Comando DD que pode ser utilzado para recovery**
+``` 
+sudo dd if={origem} of={destino}
+```
+<p>OBS: origin e destino pode ser criar ou recuperar uma imagem .iso ou .img</p>
+
+**Progurar palavra em vários arquivos**
+``` 
+grep -R "Nome do arquivo entre aspas"
 ```
