@@ -343,3 +343,7 @@ sudo dd if={origem} of={destino}
 ``` 
 grep -R "Nome do arquivo entre aspas"
 ```
+**Drivers Nvidia**
+```
+https://diolinux.com.br/nvidia/instalando-os-drivers-nvidia-34024-no-ubuntu.html
+```
