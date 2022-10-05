@@ -81,6 +81,38 @@ https://www.renderforest.com/
 https://play.google.com/store/search?q=pzpic&c=apps&hl=pt_BR&gl=US
 ```
 
+**Ferramentas para não aparecer nos videos**
+- www.play.ht
+- cloud.google.com - Text-ti-Speech Lifelike Speech Synthesis
+- azure.microsoft - text to Speech - Realistic AI Voice Generator
+
+**Bancos de Imagem**
+``` 
+www.pexels.com
+``` 
+``` 
+www.videezy.com
+``` 
+
+**Banco de trilha sonora**
+``` 
+www.epidemicsound.com
+``` 
+``` 
+www.bensound.com
+``` 
+``` 
+www.incompetech.com
+``` 
+
+**Programas de edição de video**
+- Davince Resolve
+- Filmora
+- Canva
+
+**APP para celular para usar como teleprompt**
+- Teleprompt para Vídeo
+
 ****
 ``` 
 
@@ -284,7 +316,7 @@ https://animejs.com/
 
 ------------------------------------------------------------------------------------------------
 
-<h2>Cursos online gratis</h2>
+<h2>Cursos online gratis e material de estudo</h2>
 
 **Vários cursos em univercidades e empresas do mundo**
 ``` 
@@ -313,6 +345,11 @@ https://goalkicker.com/
 
 ``` 
 https://www.codecademy.com/
+```
+
+**RackerRank - Para estudar lógica para processos seletivos**
+``` 
+https://www.hackerrank.com/
 ```
 
 ****
