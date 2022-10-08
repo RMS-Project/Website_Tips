@@ -29,6 +29,18 @@ https://surveytime.io/pt
 https://www.google.com/intl/pt-BR_br/adsense/start/
 ```
 
+**Draip + Zap Voice**
+``` 
+https://braip.com/afiliado/
+```
+``` 
+https://zapvoice.com.br/
+```
+
+**Ganhar $7.500,00 trabalhando em casa**
+```
+https://www.studypool.com/online-tutor-job
+```
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
@@ -53,11 +65,25 @@ https://www.opensourcealternative.to/
 http://gaugan.org/gaugan2/
 ```
 
+**Site para faser resumos**
+``` 
+https://resoomer.com/pt/
+```
+
+**Escrever texto com auxílio de inteligência artificial**
+``` 
+https://beta.openai.com/playground
+```
+
+**Verificar se o texto não é plagio**
+``` 
+https://plagium.com/
+```
+
 ****
 ``` 
 
 ```
-
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para os vídeos</h2>
@@ -350,6 +376,11 @@ https://www.codecademy.com/
 **RackerRank - Para estudar lógica para processos seletivos**
 ``` 
 https://www.hackerrank.com/
+```
+
+**Cursos grátis da Microsoft**
+``` 
+https://learn.microsoft.com/pt-br/training/
 ```
 
 ****
