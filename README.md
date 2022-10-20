@@ -52,7 +52,7 @@ https://paidera.com/
 https://pinion.app/
 ```
 
-** Associados Amazon**
+**Associados Amazon**
 ```
 https://associados.amazon.com.br/
 ```
