@@ -41,6 +41,21 @@ https://zapvoice.com.br/
 ```
 https://www.studypool.com/online-tutor-job
 ```
+
+**Paidera - Assista, crie videos, pequenos textos e responda questionários**
+```
+https://paidera.com/
+```
+
+**PiniOn - Responda questionários**
+```
+https://pinion.app/
+```
+
+** Associados Amazon**
+```
+
+```
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
