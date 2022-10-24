@@ -107,6 +107,9 @@ https://www.humaaans.com/
 ```
 https://blush.design/collections/humaaans/humaaans
 ```
+```
+https://limitlessdesigns.io/avatar-illustrations/
+```
 
 **Estilo de letras incríveis**
 ``` 
@@ -116,6 +119,17 @@ https://fontesk.com/
 **Ilustrações editáveis em 3D**
 ``` 
 https://spline.design/
+```
+
+**Miscellaneous Symbol HTML icons**
+``` 
+https://vineethtrv.github.io/html-icons/
+```
+```
+https://www.toptal.com/designers/htmlarrows/symbols/
+```
+```
+https://lordicon.com/icons/wired/flat
 ```
 ------------------------------------------------------------------------------------------------
 
@@ -179,6 +193,14 @@ www.incompetech.com
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar na programação</h2>
+
+**Modelos elementos em HTML e CSS**
+```
+https://www.codingnepalweb.com/input-animation-using-html-css/
+```
+```
+https://www.youtube.com/watch?v=AmyGTvqcZxw
+```
 
 **Backgrounds incríveis para projetos**
 ``` 
@@ -377,7 +399,7 @@ https://animejs.com/
 
 <h2>Cursos online gratis e material de estudo</h2>
 
-**Vários cursos em univercidades e empresas do mundo**
+**Vários cursos em universidades e empresas do mundo**
 ``` 
 https://digitaldefynd.com/
 ```
@@ -415,6 +437,12 @@ https://www.hackerrank.com/
 ``` 
 https://learn.microsoft.com/pt-br/training/
 ```
+
+**Curso de ciências da computação de Harvard**
+``` 
+https://www.estudarfora.org.br/cursos/cc50/
+```
+
 
 ****
 ``` 
