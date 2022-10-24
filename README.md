@@ -56,6 +56,11 @@ https://pinion.app/
 ```
 https://associados.amazon.com.br/
 ```
+**Trabalhe transcrevendo textos**
+```
+https://www-gmrtranscription-com.translate.goog/careers.aspx?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
+```
+
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
@@ -95,9 +100,22 @@ https://beta.openai.com/playground
 https://plagium.com/
 ```
 
-****
+**Ilustração de figuras Humanas**
 ``` 
+https://www.humaaans.com/
+```
+```
+https://blush.design/collections/humaaans/humaaans
+```
 
+**Estilo de letras incríveis**
+``` 
+https://fontesk.com/
+```
+
+**Ilustrações editáveis em 3D**
+``` 
+https://spline.design/
 ```
 ------------------------------------------------------------------------------------------------
 
