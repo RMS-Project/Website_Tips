@@ -61,6 +61,53 @@ https://associados.amazon.com.br/
 https://www-gmrtranscription-com.translate.goog/careers.aspx?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=sc
 ```
 
+****
+```
+
+```
+
+------------------------------------------------------------------------------------------------
+<h2>Plano para criar textos</h2>
+
+
+**Plataforma que paga por textos digitados**
+```
+https://www.textbroker.com.br/
+```
+
+
+**Robôs de escrevem textos a partir de um assunto.**
+```
+https://papertyper.net/
+```
+```
+http://www.essaytyper.com/
+```
+
+**Reescreve o texto com outras palavras **
+```
+https://quillbot.com/
+```
+
+
+**Corrigir erros de ortografia e semântica**
+```
+https://www.corrector.co/pt-br/
+```
+
+**Verificação de plágio**
+```
+https://www.plagium.com/pt/detectordeplagio
+```
+
+```
+https://plagiarismdetector.net/pt
+```
+
+****
+```
+
+```
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para ajudar no dia a dia</h2>
@@ -186,6 +233,21 @@ www.incompetech.com
 **APP para celular para usar como teleprompt**
 - Teleprompt para Vídeo
 
+**Transcrição de textos em MP3**
+``` 
+https://freetts.com/
+```
+
+**Fala engraçada de texto para MP3**
+``` 
+https://falatron.com/
+```
+
+**Componentes prontos - Bons para insights**
+``` 
+https://library.relume.io/categories/signup-login-pages
+```
+
 ****
 ``` 
 
@@ -301,6 +363,11 @@ https://cloud.google.com/products/databases
 **Portugol Estruturado versão Web- Para iniciantes**
 ``` 
 https://erickweil.github.io/portugolweb/
+```
+
+**Golang para JS puro**
+``` 
+https://github.com/gopherjs/gopherjs
 ```
 
 ****
