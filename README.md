@@ -372,11 +372,15 @@ https://github.com/gopherjs/gopherjs
 
 **Criar documentação com Insomnia**
 
-<p>Instalar o complemento de para gerar a documentação em HTML</p>
+<p>Instalar o Insomnia e o complemento para gerar a documentação em HTML</p>
 
 ```
 https://insomnia.rest/plugins/insomnia-plugin-documenter
 ```
+
+<p>Pode ser feito também dentro do Insomnia no botão de configurações "engrenagem" - Plugins.</p>
+<p>Busque por: insomnia-plugin-documenter</p>
+<p>Na parte de cima do projeto será apresentado uma seta para baixo, click nela e em segrida "Export HTML Documentation"</p>
 
 ****
 ``` 
