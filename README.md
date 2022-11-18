@@ -370,6 +370,12 @@ https://erickweil.github.io/portugolweb/
 https://github.com/gopherjs/gopherjs
 ```
 
+**Criar documentação com Insomnia**
+Instalar o complemento de para gerar a documentação em HTML
+```
+https://insomnia.rest/plugins/insomnia-plugin-documenter
+```
+
 ****
 ``` 
 ```
