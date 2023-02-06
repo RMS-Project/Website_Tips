@@ -1,6 +1,33 @@
 <h1>Dicas de sites</h1>
 
 ------------------------------------------------------------------------------------------------
+<h2>ChatBots com Inteligência Artificial</h2>
+
+**ChatGPT**
+``` 
+https://openai.com/blog/chatgpt/
+```
+
+**ChatSonic**
+``` 
+https://writesonic.com/chat
+```
+
+**LamDa**
+``` 
+https://blog.google/technology/ai/lamda/
+```
+
+**Replika**
+``` 
+https://replika.com/
+```
+
+**YouBot**
+``` 
+https://you.com/search?q=ia&fromSearchBar=true&tbm=youchat
+```
+------------------------------------------------------------------------------------------------
 
 <h2>Sites para trabalhar em casa</h2>
 
