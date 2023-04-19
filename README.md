@@ -27,6 +27,40 @@ https://replika.com/
 ``` 
 https://you.com/search?q=ia&fromSearchBar=true&tbm=youchat
 ```
+
+------------------------------------------------------------------------------------------------
+
+<h2>Inteligência Artificial para imagens: Restaure, remova objetos e aumentar resolução</h2>
+
+**Picwish**
+``` 
+https://picwish.com/pt/remove-background?apptype=aps-gg-pt&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNfCbumwF7wz4VMS09AcAKu4iIRDhuGp8uEZxCzi-8LT8bCwmUH4OYsaAlVqEALw_wcB
+```
+
+**Fotor**
+``` 
+https://www.fotor.com/photo-editor-app/editor/basic
+```
+
+**Baseten**
+``` 
+https://app.baseten.co/apps/20aaJx0/operator_views/ZBMZXM0
+```
+
+**Icons 8**
+``` 
+https://icons8.com/upscaler
+```
+
+------------------------------------------------------------------------------------------------
+
+<h2>Inteligência Artificial para Audio</h2>
+
+**Adobe Podcast**
+``` 
+https://podcast.adobe.com/enhance
+```
+
 ------------------------------------------------------------------------------------------------
 
 <h2>Sites para trabalhar em casa</h2>
