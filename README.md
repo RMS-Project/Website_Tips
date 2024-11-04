@@ -633,3 +633,25 @@ grep -R "Nome do arquivo entre aspas"
 ```
 https://diolinux.com.br/nvidia/instalando-os-drivers-nvidia-34024-no-ubuntu.html
 ```
+
+------------------------------------------------------------------------------------------------
+<h2>Sistemas</h2>
+
+**Criar Pendrive de boot no Ubuntu**
+```
+sudo dd if=/path/to/kali.iso of=/dev/sdb bs=4M status=progress && sync
+```
+
+**Instalar o GRUB2**
+```
+sudo apt-get update
+```
+```
+sudo apt-get install grub2
+```
+```
+sudo update-grub
+```
+```
+sudo reboot
+```
