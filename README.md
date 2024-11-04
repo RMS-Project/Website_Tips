@@ -343,11 +343,24 @@ https://10015.io/
 ``` 
 https://www.3dicons.com/
 ```
+
+**Converter imagem png ou jpg em SVG**
+```
+https://www.adobe.com/br/express/feature/image/convert/svg
+```
+```
+https://www.freeconvert.com/pt/png-to-svg
+```
+```
+https://imagem.online-convert.com/pt/converter/png-para-svg
+```
+
 **SVG para componente React**
 ``` 
 https://svg2jsx.com
 ```
-**Componetes React prontos - Oficial React
+
+**Componentes React prontos - Oficial React**
 ``` 
 https://pt-br.legacy.reactjs.org/community/ui-components.html
 ```
