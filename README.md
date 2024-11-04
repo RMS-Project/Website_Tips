@@ -347,6 +347,10 @@ https://www.3dicons.com/
 ``` 
 https://svg2jsx.com
 ```
+**Componetes React prontos - Oficial React
+``` 
+https://pt-br.legacy.reactjs.org/community/ui-components.html
+```
 
 **Icons tradicionais SVG entre ouros formatos**
 ``` 
